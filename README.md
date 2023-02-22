@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm eregbene benedict</h1>
+<h1 align="center">Hi 👋, I'm EREGBENE BENEDICT ELAYE</h1>
 <h3 align="center">I'm now a ALX Student, i am an ALX student learning full-stack engineer</h3>
 
 - 🔭 I’m currently working on [Airbnb clone](https://github.com/eregbene/AirBnB_clone)
