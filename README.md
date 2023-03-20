@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Airbnb clone](https://github.com/eregbene/AirBnB_clone)
 
-- 🌱 I’m currently learning **react, django,and flask**
+- 🌱 I’m currently learning **Js,reacts **
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 All of my projects are available at [comming soon]
 
 - 📫 How to reach me **benedicteregbene@gmail.com**
 
