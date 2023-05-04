@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Airbnb clone](https://github.com/eregbene/AirBnB_clone)
 
-- 🌱 I’m currently learning **Js,reacts **
+- 🌱 I’m currently learning ** django,flask **
 
 - 👨‍💻 All of my projects are available at [comming soon]
 
