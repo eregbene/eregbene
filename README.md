@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Airbnb clone](https://github.com/eregbene/AirBnB_clone)
 
-- 🌱 I’m currently learning ** jenkins, AWS/Digitalocean clouds services **
+- 🌱 I’m currently learning ** Ansible **
 
 - 👨‍💻 All of my projects are available at [comming soon]
 
