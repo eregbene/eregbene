@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Eregbene Benedict Elaye</h1>
 <h3 align="center">I'm now a ALX Student, i am an ALX student learning full-stack engineer</h3>
 
-- 🔭 I’m currently working on [Airbnb clone](https://github.com/eregbene/AirBnB_clone)
+- 🔭 I’m currently working on [20 devops projects]()
 
-- 🌱 I’m currently learning ** Ansible **
+- 🌱 I’m currently learning ** Dockers **
 
 - 👨‍💻 All of my projects are available at [comming soon]
 
