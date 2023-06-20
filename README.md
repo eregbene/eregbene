@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Eregbene Benedict Elaye</h1>
 <h3 align="center">I'm now a ALX Student, i am an ALX student learning DevOps engineer</h3>
 
-- 🔭 I’m currently working on [20 devops projects]()
+- 🔭 I’m currently working on DevOp projects, using tools like AWS, Jenkins, IAC with Terraform, and Ansible
 
-- 🌱 I’m currently learning ** Dockers **
+- 🌱 I’m currently learning ** containerization technologies like Docker and Kubernetes. **
 
 - 👨‍💻 All of my projects are available at [comming soon]
 
