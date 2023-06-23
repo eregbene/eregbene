@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Eregbene Benedict Elaye</h1>
+<h1 align="center">Hi 👋, I'm Eregbene Benedict </h1>
 <h3 align="center">I'm now a ALX Student, i am an ALX student learning DevOps engineer</h3>
 
 - 🔭 I’m currently working on DevOp projects, using tools like AWS, Jenkins, IAC with Terraform, and Ansible
