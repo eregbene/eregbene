@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning ** containerization technologies like Docker and Kubernetes. **
 
-- 👨‍💻 All of my projects are available at [DevOps-cloudprojects](https://github.com/eregbene/DevOps-cloudprojects))
-
+- 👨‍💻 All of my projects are available at [DevOps-cloudprojects](https://github.com/eregbene/DevOps-cloudprojects)
 - 📫 How to reach me **benedicteregbene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
